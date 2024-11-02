@@ -1,4 +1,4 @@
-
+    ![logo](https://github.com/Ahmetkaragunlu/UnscrambleApp/blob/main/App.png?raw=true)
 
 Unscramble App is an interactive word game that challenges players to guess scrambled words. The app is developed using Jetpack Compose for a modern, responsive user interface and uses a clean architecture with different components for better maintainability.
 
